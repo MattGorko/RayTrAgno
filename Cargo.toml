@@ -1,0 +1,12 @@
+[package]
+name = "ray-tr-agno"
+version = "0.1.0"
+edition = "2021"
+authors = ["César Belley <cesar.belley@lse.epita.fr>"]
+license = "GPL-2.0"
+repository = "https://github.com/MattGorko/RayTrAgno"
+keywords = ["raytracer", "webgpu", "wasm"]
+description= "A WebGpu raytracer targetting wasm"
+
+
+[dependencies]
