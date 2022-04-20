@@ -1,3 +1,9 @@
+mod material;
+mod ray;
+mod scene;
+mod sphere;
+mod vector;
+
 fn main() {
-    println!("Hello, world!");
+    scene::launch();
 }
